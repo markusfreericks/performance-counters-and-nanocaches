@@ -32,7 +32,7 @@ external caches
 
 an external cache will rarely return a cached answer in <1ms
 
-## Tools for optimizing performance
+# Project Goals
 
 goal of this project
 
